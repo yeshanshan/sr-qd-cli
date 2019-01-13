@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/yeshanshan/sr-qd-cli/issues"
   },
-  "homepage": "https://github.com/yeshanshan/sr-qd-cli#readme"
+  "homepage": "https://github.com/yeshanshan/sr-qd-cli#readme",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "glob": "^7.1.3"
+  }
 }
