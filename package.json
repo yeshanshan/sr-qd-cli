@@ -1,0 +1,24 @@
+{
+  "name": "sr-qd-cli",
+  "version": "1.0.0",
+  "description": "基于vue的脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeshanshan/sr-qd-cli.git"
+  },
+  "keywords": [
+    "vue",
+    "cli",
+    "webpack"
+  ],
+  "author": "lemon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeshanshan/sr-qd-cli/issues"
+  },
+  "homepage": "https://github.com/yeshanshan/sr-qd-cli#readme"
+}
