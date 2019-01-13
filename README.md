@@ -4,7 +4,7 @@
 . npm i --save-dev sr-qd-cli
 
 # Usage
-. 初始化
+1. 初始化
 . sr-init <project-name>
-. 测试
+2. 测试
 . sr-test <project-name>
