@@ -6,7 +6,7 @@ const glob = require('glob')
 
 
 // 根据输入，获取项目名称
-let projectName = program.args[1]
+let projectName = program.args[1] || '-'
 
 if (!projectName) {
   // 相当于执行命令的--help选项，显示help信息，这是commander内置的一个命令选项
