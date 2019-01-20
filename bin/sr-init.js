@@ -35,7 +35,9 @@ if (list.length) {  // 如果当前目录不为空
   } else {
       rootName = projectName
   }
-
+function handle(){
+    
+}
   console.log(rootName)
   
   
